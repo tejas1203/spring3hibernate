@@ -1,4 +1,4 @@
-@Library('codeutils@master')
+@Library('Java-CI@master')
 
 def codeUtils = new org.opstree.java.javaCodePipeline()
 
